@@ -1,0 +1,28 @@
+.backg{
+    width: 100%;
+    height: 100vh;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    line-height: 1.5;
+}
+#quote-box{
+    border-radius: 20px;
+    width: 30rem;
+    padding: 40px 50px 40px 50px;
+    background-color: #fff;
+    font-family: "Times New Roman", Georgia, Serif;
+    color: brown;
+}
+#text{
+    font-size: 2rem;
+    font-weight: 800;
+    text-align: center;
+}
+#author{
+
+    font-size: 1.5rem;
+    text-align: right;
+}
